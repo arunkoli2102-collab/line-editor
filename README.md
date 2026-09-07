@@ -2,7 +2,7 @@
 
 A command-line line editor built in C for the **Portfolio Building Studio Course (3rd Semester) Coding Competition**. This tool allows users to create, view, and modify text documents line-by-line directly from the terminal without a GUI.
 
----
+--
 
 ## Team Information
 - **Members:**
